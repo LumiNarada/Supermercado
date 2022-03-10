@@ -261,6 +261,3 @@ GERENTE Y CAJERO no se eliminaron registros de manera directa
 ya que al hacerlo en empleado se eliminaban sus respectivos
 cargos.
 */
-
-
-
